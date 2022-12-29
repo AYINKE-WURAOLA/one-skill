@@ -51,9 +51,10 @@ padding: 0;
 .image{
     margin-bottom: 40px;
     margin-top: 40px;
+   
 }
 .image img{
-    width: 700px;
+    width: 600px;
 
 }
 :hover .image :hover{
@@ -338,44 +339,44 @@ padding-top: 40px;  }
 .row1{
     display: flex;
     flex-direction: column;
-    width: 80%;
+    width: 100%;
     margin: 0px !important;
     margin-top: 20px!important;
 }
 .text1{
-    font-size: 15px !important;
+    font-size: 12px !important;
     line-height: 20px!important;
 }
 .udemy img{
     margin: 0px !important;
     margin-top: -80px !important;
-    width: 80px !important;
+    width: 70px !important;
     height: 40px !important;
-    margin-left: 150px !important;
+    margin-left: 110px !important;
 }
 .fivrr img{
     margin: 0px !important;
     width: 150px!important;
     margin-top: -120px!important;
-    margin-left:200px !important;
+    margin-left:140px !important;
 }
 .byj img{
     margin: 0px !important;
     width: 90px !important;
     margin-top: -160px!important;
-    margin-left: 320px !important;
+    margin-left: 250px !important;
 }
 .micro img{
     margin: 0px !important;
     width: 100px !important;
     margin-top: -210px !important;
-    margin-left: 410px !important;
+    margin-left: 350px !important;
 }
 .row2{
     display: flex;
     flex-direction: column;
 }
-.image2 img{width: 450px!important;
+.image2 img{width: 400px!important;
             margin-top: -60px;
 
 }
@@ -397,8 +398,8 @@ padding-top: 40px;  }
 }
 .card2{
     margin: 0px !important;
- margin-top: -910px !important; 
-margin-left: 275px !important;
+ margin-top: 20px !important; 
+margin-left: 180px !important;
 
 }
 .card{
@@ -458,7 +459,7 @@ h4{
     font-size: 20px!important;
 }
 .card6{
-    margin-left: 100px !important;
+    margin-left: 70px !important;
     margin-top: 20px !important;
 }
 .cards{
