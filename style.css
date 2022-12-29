@@ -1,0 +1,473 @@
+*{
+    margin: 0;
+padding: 0;    
+}
+.navbar{
+    background-color: #E4F5EB;
+    /* position: fixed;
+    width: 100%; */
+}
+.navs{
+    color: #45B871;
+    font-size: 23.8px;
+    font-weight: 700;
+    line-height: 14.87px;
+}
+.code{
+    color: #242323;
+}
+.nav-link{
+    font-family: open sans;
+    font-size: 19.83px;
+    line-height: 14.87px;
+    font-weight: 600;
+    color:#575859;
+}
+.btn1{
+    width: 130px;
+    height: 40px;
+    top:50.56px;
+    left: 1513.97px;
+    border-radius: 4.96px;
+    background-color: #45B871;
+    border-color: #45B871;
+    color:white ;
+}
+.section1{
+    background-color: #E4F5EB;
+
+}
+.text{
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+.head{
+    font-family: open sans;
+    font-size: 60px;
+    font-weight: 700;
+
+
+}
+.image{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.image img{
+    width: 700px;
+
+}
+:hover .image :hover{
+    transform: translateY(50px);
+    opacity: 1;
+    transition: 1s ease-in;
+}
+.para{
+    font-size: 18px;
+}
+.inputs img{
+    width: 100px;
+}
+.inputs a{
+    text-decoration: none;
+    color:#242323;
+    font-size: 19.83px;
+    font-size:600;
+   margin-left:-30px;
+}
+.row1{
+    display: flex;
+    margin-top: 40px;
+    
+}
+.text1{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.udemy img{
+margin-top: 20px;
+margin-left: 60px;
+width: 188.02px;
+height: 53.36px;
+}
+.fivrr img{
+    margin-top: -10px;
+}
+.byj img{
+    margin-top: 7px;
+}
+.micro img{
+    margin-left: 40px;
+    margin-top: 7px;
+}
+.row2{
+    display: flex;
+    
+}
+ .image2 :hover{
+    transform: rotateY(360deg);
+    position: relative;
+    cursor: pointer;
+}
+.image2 img{
+    width: 490px;
+    transition: transform 1500ms;
+}
+.head1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.text2{
+    font-size: 18px;
+    line-height: 30px;
+}
+.text3{
+    font-size: 18px;
+    line-height: 30px;
+}
+.input{
+    margin-top: -20px;
+    margin-left: -20px;
+}
+.input img{
+    width: 60px;
+}
+.input a{
+    text-decoration: none;
+    margin-left: -20px;
+    color: black;
+}
+
+.head2{
+    font-size: 58px;
+    font-weight: 700;
+}
+.section3{
+    background-color: #E4F5EB;
+  
+}
+.row3{
+    display: flex;
+    margin-top: 100px;
+}.card2, .card3{
+    margin-left: 100px;
+}
+.test{
+    display: flex;
+    margin-top: 10px;
+}
+.video, .video1,.video2{
+    display: flex;
+    flex-direction: row;
+}
+.video1{
+    margin-left: 40px;
+}
+.para8{
+    font-size: 14px;
+    font-weight: 600;
+}
+.card-title{
+    font-size: 25px;
+    font-weight: 600;}
+    .line{
+        width: 255px;
+        height: 2px;
+        background: #268EAA80;
+    
+    }
+    .test1{
+        display: flex;
+        margin-top: 10px;
+    }
+    .img2 img{
+    width:40px ;
+    }
+    .links{
+        color: #45B871;
+    }
+    .para9{
+        font-size: 20px;
+        color: #4C68FF;
+        font-weight: 700;
+    }
+    .video3{
+        margin-left: 50px;
+    }
+    .video2 .para8{
+        font-size: 13px;
+        font-weight: 600;
+    }
+    :hover .cardd{
+        cursor: pointer;
+        transform: rotate(360deg);
+    }
+    .cardd{
+        position: relative;
+        transition: transform 1500ms;
+    }
+
+    .crd2, .crd4, .crd6{
+        margin-top: 20px;
+    }
+    .card2{
+        margin-top: -40px;
+    }
+    .card3{
+        margin-top: 20px;
+    }
+    .btn4{
+        margin-top: 18px;
+        justify-content: center;
+        align-items: center;
+        margin-left: 70px;
+    }
+    h3{
+        margin-top: 100px;
+        color: #424232;
+        font-style: SemiBold;
+        font-size: 54px;
+        
+    }
+    .row4{
+        display: flex;
+        margin-top: 50px;
+    }
+    .imggz{
+        width: 100px;
+    }
+    .cardz{
+        width: 350px;
+        height: 330px;
+        box-shadow: 10px 10px 10px 10px #E7E7E7B2;
+    }
+    .para11{
+    color: #8C8E90;
+    margin-top: 10px;
+    
+    }
+    h4{
+        font-family: Poppins;
+        font-size: 30px;
+        font-style: italic;
+    }
+    .para12{
+        color: #636262;
+        line-height: 1px;
+    }
+    .crd9{
+        margin-top: 20px;
+    }
+    :hover cardz
+    .cardzz{
+        box-shadow: 10px 10px 10px 10px #E7E7E7B2;
+  position: absolute;
+  
+    }.cardss{
+        box-shadow: 10px 10px 10px 10px #E7E7E7B2;
+    }
+    .cards{
+        width: 1115px;
+        height: 300px;
+        margin-top: 100px;
+         background: #45B871;
+         background-image: url(./Mask\ Group.png);
+         background-attachment: fixed;
+         margin-bottom: 100px;
+    }
+    .para13{
+        font-size: 50px;
+    font-weight: 700;
+color: #FFFF;  
+padding-top: 40px;  }
+
+.btn5{
+    width: 130px;
+    height: 40px;
+    top:50.56px;
+    left: 1513.97px;
+    border-radius: 4.96px;
+    background-color: transparent;
+    border-color: white;
+    color:white ;
+    text-decoration: none;
+}
+.btn5 a{
+    text-decoration: none;
+    color: white;
+}
+.btn6{
+    width: 130px;
+    height: 40px;
+    top:50.56px;
+    left: 1513.97px;
+    border-radius: 4.96px;
+    background-color: white;
+    border-color: white;
+    color:black ;
+}
+
+.btn6 a{
+    text-decoration: none;
+    color: black;
+}
+
+@media screen and (max-width:768px) {
+ .text{
+    margin: 0px !important;
+    margin-top: 10px !important;
+ }
+    .head
+ {font-size: 40px !important;
+
+
+}
+
+.para{
+    font-size: 15px !important;
+}
+.image img{
+    width: 400px !important;
+    margin: 0px !important;
+    margin-top: -50px !important;
+    margin-bottom: 100px !important;
+}
+.section2{
+    width: 100%;
+}
+.row1{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0px !important;
+    margin-top: 20px!important;
+}
+.text1{
+    font-size: 15px !important;
+    line-height: 20px!important;
+}
+.udemy img{
+    margin: 0px !important;
+    margin-top: -80px !important;
+    width: 80px !important;
+    height: 40px !important;
+    margin-left: 150px !important;
+}
+.fivrr img{
+    margin: 0px !important;
+    width: 150px!important;
+    margin-top: -120px!important;
+    margin-left:200px !important;
+}
+.byj img{
+    margin: 0px !important;
+    width: 90px !important;
+    margin-top: -160px!important;
+    margin-left: 320px !important;
+}
+.micro img{
+    margin: 0px !important;
+    width: 100px !important;
+    margin-top: -210px !important;
+    margin-left: 410px !important;
+}
+.row2{
+    display: flex;
+    flex-direction: column;
+}
+.image2 img{width: 450px!important;
+            margin-top: -60px;
+
+}
+.head1{
+    font-size: 30px !important;
+}
+.text2,.text3{
+    font-size: 15px !important;
+}
+.head2{
+    font-size: 30px!important;
+}
+.row3{
+    display: flex;
+    flex-direction: column;
+    margin: 0px !important;
+    margin-top: 30px !important;
+    width: 100%;
+}
+.card2{
+    margin: 0px !important;
+ margin-top: -910px !important; 
+margin-left: 275px !important;
+
+}
+.card{
+    width: 15rem !important;
+}
+.para8{
+    font-size: 13px !important;
+}
+.video1{
+    margin: 0px !important;
+    margin-left: 10px !important;
+}
+.video3{
+    margin: 0px !important;
+    margin-left: 30px !important;
+}
+.line{
+    width:210px !important ;
+}
+.btn4{
+margin: 0px !important;
+margin-top: 10px !important;
+margin-left: 50px !important;
+}
+.card3{
+    margin: 0px !important;
+    margin: 10px !important;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70px !important;
+}
+.crd6{
+    margin: 0px !important;
+    margin-top: 10px !important;
+}
+h3{
+    margin: 0px !important;
+    font-size: 30px !important
+}
+.cardz, .cardzz, .cardss{
+    width: 300px !important;
+    height: 300px !important;
+}
+.row4{
+    display: flex;
+    flex-direction: column;
+    margin: 0px !important;
+    margin-top: 40px !important;
+}
+.imggz{
+    width: 60px !important;
+}
+.para11, .para12{
+    font-size: 14px !important;
+}
+h4{
+    font-size: 20px!important;
+}
+.card6{
+    margin-left: 100px !important;
+    margin-top: 20px !important;
+}
+.cards{
+    width: 400px !important;
+}
+.para13{
+    font-size: 30px !important;
+}
+
+
+
+}
