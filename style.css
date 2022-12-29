@@ -399,7 +399,7 @@ padding-top: 40px;  }
 .card2{
     margin: 0px !important;
  margin-top: 20px !important; 
-margin-left: 100px !important;
+margin-left: 20px !important;
 
 }
 .card{
@@ -436,11 +436,12 @@ margin-left: 50px !important;
     margin-top: 10px !important;
 }
 h3{
+    padding-top: 30px !important;
     margin: 0px !important;
     font-size: 30px !important
 }
 .cardz, .cardzz, .cardss{
-    width: 300px !important;
+    width: 280px !important;
     height: 300px !important;
 }
 .row4{
@@ -463,7 +464,7 @@ h4{
     margin-top: 20px !important;
 }
 .cards{
-    width: 370px !important;
+    width: 350px !important;
 }
 .para13{
     font-size: 20px !important;
