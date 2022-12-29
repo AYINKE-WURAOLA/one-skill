@@ -328,7 +328,7 @@ padding-top: 40px;  }
     font-size: 15px !important;
 }
 .image img{
-    width: 400px !important;
+    width: 350px !important;
     margin: 0px !important;
     margin-top: -50px !important;
     margin-bottom: 100px !important;
@@ -356,27 +356,27 @@ padding-top: 40px;  }
 }
 .fivrr img{
     margin: 0px !important;
-    width: 150px!important;
+    width: 100px!important;
     margin-top: -120px!important;
-    margin-left:140px !important;
+    margin-left:155px !important;
 }
 .byj img{
     margin: 0px !important;
-    width: 90px !important;
+    width: 80px !important;
     margin-top: -160px!important;
-    margin-left: 250px !important;
+    margin-left: 235px !important;
 }
 .micro img{
     margin: 0px !important;
-    width: 100px !important;
+    width: 90px !important;
     margin-top: -210px !important;
-    margin-left: 350px !important;
+    margin-left: 320px !important;
 }
 .row2{
     display: flex;
     flex-direction: column;
 }
-.image2 img{width: 400px!important;
+.image2 img{width: 350px!important;
             margin-top: -60px;
 
 }
@@ -399,7 +399,7 @@ padding-top: 40px;  }
 .card2{
     margin: 0px !important;
  margin-top: 20px !important; 
-margin-left: 180px !important;
+margin-left: 150px !important;
 
 }
 .card{
@@ -459,14 +459,22 @@ h4{
     font-size: 20px!important;
 }
 .card6{
-    margin-left: 70px !important;
+    margin-left: 50px !important;
     margin-top: 20px !important;
 }
 .cards{
-    width: 400px !important;
+    width: 370px !important;
 }
 .para13{
-    font-size: 30px !important;
+    font-size: 20px !important;
+}
+.btn5{
+    width: 120px !important;
+    height: 30px !important;
+}
+.btn6{
+    width: 120px !important;
+    height: 30px !important;
 }
 
 
